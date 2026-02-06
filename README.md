@@ -28,7 +28,3 @@ I build scalable backend services, fullstack applications, and cloud infrastruct
 ## 📫 Let's connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chawkitariq&show_icons=true&theme=dark)
