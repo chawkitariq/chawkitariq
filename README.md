@@ -27,4 +27,4 @@ I build scalable backend services, fullstack applications, and cloud infrastruct
 
 ## 📫 Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://linkedin.com/in/chawkitariq)
