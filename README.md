@@ -2,7 +2,7 @@
 
 **Fullstack & DevOps Engineer** specializing in **NestJS**, **React**, and **AWS**
 
-I build scalable backend services, fullstack applications, and cloud infrastructure. I work daily with TypeScript, microservices, event-driven architectures, and CI/CD pipelines.
+I build scalable backend services, fullstack applications, and cloud infrastructure.
 
 ---
 
