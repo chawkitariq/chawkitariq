@@ -2,7 +2,9 @@
 
 **Fullstack Engineer** specializing in **NestJS**, **React**, and **AWS**
 
-I build scalable backend services, fullstack applications, and cloud infrastructure.
+I design and build end-to-end products from architecture and backend services to frontend applications and cloud infrastructure.
+
+I care about clean architecture, simplicity, security, and reliable systems.
 
 ---
 
