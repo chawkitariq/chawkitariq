@@ -28,3 +28,4 @@ I build scalable backend services, fullstack applications, and cloud infrastruct
 ## Let's connect
 
 - [LinkedIn](https://linkedin.com/in/chawkitariq)
+- [Portfolio](https://portfolio.chawkitariq.fr)
