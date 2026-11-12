@@ -1,33 +1,16 @@
-# Hey I'm Tariq
+# Hi, I'm Tariq Chawki
 
-**Product Engineer** focused on building **end-to-end systems** with **NestJS, React, and AWS**.
+**Freelance Product Engineer**
 
-I design and deliver products from **idea and architecture to production**, building scalable backend services, modern web applications, and cloud infrastructure.
+I take ownership of software products end to end. I work with users and stakeholders to understand the problem, decide what to build first, and take it through design, development, and deployment. After launch, I keep the product running, help teams adopt it, and use their feedback to decide what to improve next.
 
-I value **clean architecture, simplicity, security, and reliable systems**.
+## Selected work
 
----
+- **Meetdeal** · I built React and TypeScript tools for support and marketing teams, including Zendesk apps for booking appointments and duplicating tickets, and an internal dashboard for tracking leads.
+- **[One Piece TCG Simulator](https://github.com/tagyne/onepiecetcg)** · I built a web app where players can build decks and play matches in real time. The project spans product scope, the Nuxt interface, and the NestJS and Colyseus backend that manages match state.
 
-## Tech Stack
+## Tools I work with
 
-**Backend:** Node.js • NestJS • TypeScript • Python • GraphQL • REST • SQL/NoSQL  
-**Frontend:** React • React Native • Next.js • Vue.js • Nuxt.js • Angular  
-**Cloud/DevOps:** AWS • Terraform • Docker • Kubernetes • GitHub Actions • GitLab CI  
-**AI/ML:** MLOps • AWS SageMaker • Machine Learning pipelines
+TypeScript, React, React Native, Next.js, Vue and Nuxt on the front end. Node.js, NestJS, REST, GraphQL, and SQL and NoSQL databases on the back end. AWS, Terraform, Docker, and GitHub Actions for infrastructure and delivery.
 
----
-
-## What I'm doing
-
-- Product Engineer at **Verbq**
-- Building fullstack apps (React + NestJS) and deploying on AWS
-- Contributing to open source
-- Writing technical articles on LinkedIn
-- Exploring MLOps and production ML workflows
-
----
-
-## Let's connect
-
-- [LinkedIn](https://linkedin.com/in/chawkitariq)
-- [Website](https://portfolio.chawkitariq.fr)
+[LinkedIn](https://linkedin.com/in/chawkitariq) · [Portfolio](https://portfolio.chawkitariq.fr)
