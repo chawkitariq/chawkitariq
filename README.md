@@ -30,4 +30,4 @@ I value **clean architecture, simplicity, security, and reliable systems**.
 ## Let's connect
 
 - [LinkedIn](https://linkedin.com/in/chawkitariq)
-- [Portfolio](https://portfolio.chawkitariq.fr)
+- [Website](https://portfolio.chawkitariq.fr)
