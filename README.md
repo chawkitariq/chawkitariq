@@ -19,7 +19,7 @@ I value **clean architecture, simplicity, security, and reliable systems**.
 
 ## What I'm doing
 
-- Fullstack & DevOps Engineer at **Meetdeal** (hybrid remote)
+- Product Engineer at **Verbq**
 - Building fullstack apps (React + NestJS) and deploying on AWS
 - Contributing to open source
 - Writing technical articles on LinkedIn
