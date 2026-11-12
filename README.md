@@ -1,6 +1,6 @@
 # Hey I'm Tariq
 
-**Full-stack Engineer** focused on building **end-to-end systems** with **NestJS, React, and AWS**.
+**Product Engineer** focused on building **end-to-end systems** with **NestJS, React, and AWS**.
 
 I design and deliver products from **idea and architecture to production**, building scalable backend services, modern web applications, and cloud infrastructure.
 
